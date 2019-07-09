@@ -21,3 +21,4 @@ end
 @womens_stores.each do |item|
     puts "#{item.name} #{item.annual_revenue}"
 end
+ 
